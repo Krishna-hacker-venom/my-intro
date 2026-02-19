@@ -19,12 +19,11 @@ This portfolio is organized into dedicated sections highlighting my:
 - Networking Knowledge  
 - Linux & System Security Skills  
 - SOC Analyst Learning  
+- Technical Blog Writing  
 
 ---
 
 # 🛠️ 1️⃣ Project Section
-
-Cybersecurity and development projects demonstrating practical implementation skills:
 
 - 🔗 Main Projects  
   https://github.com/Krishna-hacker-venom/project  
@@ -36,16 +35,12 @@ Cybersecurity and development projects demonstrating practical implementation sk
 
 # 💻 2️⃣ Programming Language Concepts
 
-Programming fundamentals and secure development practices:
-
 - 🔗 Python Concepts & Projects  
   https://github.com/Krishna-hacker-venom/python-projects-and-concepts  
 
 ---
 
 # 🎯 3️⃣ CTF Documentation
-
-Capture The Flag writeups including methodology, tools, exploitation steps, and lessons learned:
 
 - 🔗 CTF Writeups  
   https://github.com/Krishna-hacker-venom/hacking-events-CTF-  
@@ -54,16 +49,12 @@ Capture The Flag writeups including methodology, tools, exploitation steps, and 
 
 # 🌐 4️⃣ Network Concepts
 
-Networking theory and security-focused explanations essential for cybersecurity:
-
 - 🔗 Networking Concepts  
   https://github.com/Krishna-hacker-venom/computer-networks-concepts-for-hackers  
 
 ---
 
 # 🔌 5️⃣ Networking Projects
-
-Hands-on networking labs and security implementations:
 
 - 🔗 Cisco Packet Tracer Labs  
   https://github.com/Krishna-hacker-venom/network-security-cisco-packet-tracer-practical-  
@@ -72,20 +63,27 @@ Hands-on networking labs and security implementations:
 
 # 🐧 6️⃣ Linux Section
 
-Linux fundamentals, command-line operations, system hardening, and security configurations:
-
 - 🔗 Linux for Hackers  
   https://github.com/Krishna-hacker-venom/Linux-important-for-hackers  
 
 ---
 
-# 🌍 Additional Learning Sections
+# 🌍 7️⃣ Additional Learning Sections
 
 - 🔗 Web Fundamentals  
   https://github.com/Krishna-hacker-venom/web-fundamental-for-hackers  
 
 - 🔗 SOC Analyst Learning  
   https://github.com/Krishna-hacker-venom/SOC-analyst  
+
+---
+
+# ✍️ 8️⃣ Medium Blog
+
+I regularly share my cybersecurity learning journey, SOC concepts, networking fundamentals, and practical security insights.
+
+- 🔗 Medium Profile  
+  http://medium.com/@krishnasaroj970/
 
 ---
 
