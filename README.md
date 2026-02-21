@@ -35,9 +35,8 @@ This portfolio is organized into dedicated sections highlighting my:
 
 # 💻 2️⃣ Programming Language Concepts
 
-- 🔗 Python Concepts & Projects  
-  https://github.com/Krishna-hacker-venom/python-projects-and-concepts  
-
+- 🔗 Programming Concepts     
+https://github.com/Krishna-hacker-venom/programming_language_concepts
 ---
 
 # 🎯 3️⃣ CTF Documentation
