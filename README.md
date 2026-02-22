@@ -76,7 +76,7 @@ https://github.com/Krishna-hacker-venom/programming_language_concepts
   https://github.com/Krishna-hacker-venom/SOC-analyst
 
 - 🔗 OWASP 10 WEB APPLICATION
-  https://github.com/Krishna-hacker-venom/OWASP-10-web-site-2026
+  https://github.com/Krishna-hacker-venom/OWASP-10-web-site-2026-
 
 
 ---
