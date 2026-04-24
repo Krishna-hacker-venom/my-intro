@@ -1,123 +1,115 @@
-# 👋 Hi, I'm Krishna Saroj
+# Krishna Saroj
 
-🔐 Aspiring Cybersecurity Professional  
-🛡️ Junior Security Analyst (Actively Building & Learning)  
-💻 Focused on Networking, Linux, CTFs, SOC Operations & Security Automation  
+Aspiring Cybersecurity Professional
+Junior Security Analyst
 
-I am developing practical cybersecurity expertise through hands-on labs, real-world projects, CTF documentation, and structured technical notes.  
-This GitHub portfolio reflects my continuous learning journey and commitment to becoming a skilled security professional.
-
----
-
-# 📌 Portfolio Overview
-
-This portfolio is organized into dedicated sections highlighting my:
-
-- Practical Security Projects  
-- Programming Foundations  
-- CTF Documentation  
-- Networking Knowledge  
-- Linux & System Security Skills  
-- SOC Analyst Learning  
-- Technical Blog Writing  
+Focused on networking, Linux systems, CTFs, SOC operations, and security automation.
+Building practical security expertise through hands-on labs, real-world simulations, and technical documentation.
 
 ---
 
-# 🛠️ 1️⃣ Project Section
+## Portfolio Overview
 
-- 🔗 Main Projects  
-  https://github.com/Krishna-hacker-venom/project  
+This portfolio demonstrates practical work across:
 
-- 🔗 Bug Bounty Platform  
-  https://github.com/Krishna-hacker-venom/bug-bounty-platform  
-
----
-
-# 💻 2️⃣ Programming Language Concepts
-
-- 🔗 Programming Concepts     
-https://github.com/Krishna-hacker-venom/programming_language_concepts
----
-
-# 🎯 3️⃣ CTF Documentation
-
-- 🔗 CTF Writeups  
-  https://github.com/Krishna-hacker-venom/hacking-events-CTF-  
+* Security Projects
+* Programming & Scripting
+* Capture The Flag (CTF) Writeups
+* Networking Fundamentals
+* Linux & System Security
+* SOC Analysis Concepts
 
 ---
 
-# 🌐 4️⃣ Network Concepts
+## Projects
 
-- 🔗 Networking Concepts  
-  https://github.com/Krishna-hacker-venom/computer-networks-concepts-for-hackers  
+Main Projects
+[https://github.com/Krishna-hacker-venom/project](https://github.com/Krishna-hacker-venom/project)
 
----
-
-# 🔌 5️⃣ Networking Projects
-
-- 🔗 Cisco Packet Tracer Labs  
-  https://github.com/Krishna-hacker-venom/network-security-cisco-packet-tracer-practical-  
+Bug Bounty Platform
+[https://github.com/Krishna-hacker-venom/bug-bounty-platform](https://github.com/Krishna-hacker-venom/bug-bounty-platform)
 
 ---
 
-# 🐧 6️⃣ Linux Section
+## Programming
 
-- 🔗 Linux for Hackers  
-  https://github.com/Krishna-hacker-venom/Linux-important-for-hackers  
-
----
-
-# 🌍 7️⃣ Additional Learning Sections
-
-- 🔗 Web Fundamentals  
-  https://github.com/Krishna-hacker-venom/web-fundamental-for-hackers  
-
-- 🔗 SOC Analyst Learning  
-  https://github.com/Krishna-hacker-venom/SOC-analyst
-
-- 🔗 OWASP 10 WEB APPLICATION
-  https://github.com/Krishna-hacker-venom/OWASP-10-web-site-2026
-  
-
+Programming Concepts for Security
+[https://github.com/Krishna-hacker-venom/Important-programming-concepts-for-hackers](https://github.com/Krishna-hacker-venom/Important-programming-concepts-for-hackers)
 
 ---
 
+## CTF Writeups
 
-# ✍️ 8️⃣ Medium Blog
-
-I regularly share my cybersecurity learning journey, SOC concepts, networking fundamentals, and practical security insights.
-
-- 🔗 Medium Profile  
-  http://medium.com/@krishnasaroj970/
+CTF Documentation
+[https://github.com/Krishna-hacker-venom/hacking-events-CTF-](https://github.com/Krishna-hacker-venom/hacking-events-CTF-)
 
 ---
 
-# 🧠 Core Skills Under Development
+## Networking
 
-- Security Monitoring & Alert Analysis  
-- Incident Investigation  
-- Log & Traffic Analysis  
-- Secure Coding Practices  
-- Linux Administration  
-- Threat Detection & Response  
-- Security Automation  
+Networking Concepts
+[https://github.com/Krishna-hacker-venom/computer-networks-concepts-for-hackers](https://github.com/Krishna-hacker-venom/computer-networks-concepts-for-hackers)
+
+Networking Labs (Cisco Packet Tracer)
+[https://github.com/Krishna-hacker-venom/network-security-cisco-packet-tracer-practical-](https://github.com/Krishna-hacker-venom/network-security-cisco-packet-tracer-practical-)
 
 ---
 
-# 🎯 Career Objective
+## Linux & System Security
 
-To contribute to an organization by proactively identifying vulnerabilities, strengthening system reliability, and improving overall security posture through practical technical expertise, continuous learning, and measurable impact.
+Linux for Security
+[https://github.com/Krishna-hacker-venom/Linux-important-for-hackers](https://github.com/Krishna-hacker-venom/Linux-important-for-hackers)
 
----
-
-# 📬 Connect With Me
-
-🔗 GitHub  
-https://github.com/Krishna-hacker-venom  
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/krishna-saroj-3b8068342  
+OverTheWire Bandit Walkthrough
+[https://github.com/Krishna-hacker-venom/overthewire.org-wargames-bandit-](https://github.com/Krishna-hacker-venom/overthewire.org-wargames-bandit-)
 
 ---
 
-⭐ This portfolio is continuously evolving as I advance in cybersecurity.
+## Additional Work
+
+Web Fundamentals
+[https://github.com/Krishna-hacker-venom/web-fundamental-for-hackers](https://github.com/Krishna-hacker-venom/web-fundamental-for-hackers)
+
+SOC Analyst Notes
+[https://github.com/Krishna-hacker-venom/SOC-analyst](https://github.com/Krishna-hacker-venom/SOC-analyst)
+
+OWASP Top 10
+[https://github.com/Krishna-hacker-venom/OWASP-10-web-site-2026](https://github.com/Krishna-hacker-venom/OWASP-10-web-site-2026)
+
+---
+
+## Technical Writing
+
+Medium
+[http://medium.com/@krishnasaroj970/](http://medium.com/@krishnasaroj970/)
+
+---
+
+## Core Skills
+
+* Security Monitoring and Alert Analysis
+* Incident Investigation
+* Log and Traffic Analysis
+* Linux System Administration
+* Network Fundamentals
+* Threat Detection and Response
+* Basic Security Automation
+
+---
+
+## Objective
+
+To contribute to a security team by identifying vulnerabilities, analyzing threats, and strengthening system defenses through practical and measurable security work.
+
+---
+
+## Contact
+
+GitHub
+[https://github.com/Krishna-hacker-venom](https://github.com/Krishna-hacker-venom)
+
+LinkedIn
+[https://www.linkedin.com/in/krishna-saroj-3b8068342](https://www.linkedin.com/in/krishna-saroj-3b8068342)
+
+---
+
